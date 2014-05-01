@@ -8,17 +8,17 @@ Dedicated to my two sons, Otto and Orin.
 
 ## Introduction
 
-Battling! is a turn-based combat game for two or more players.  It is meant to be a very simple version of combat games like Warhammer but for younger children who like The Hobbit and LOTR.   Hopefully it will act as a stepping stone to more complex roleplaying games for children.  
+Battling! is a turn-based combat game for two or more players.  It is meant to be a **very** simple version of combat games like the Warhammer franchise but playabl for younger children who still like The Hobbit and LOTR.   Hopefully it will act as a stepping stone to more complex roleplaying games for children.  
 
-It is meant to be genre-shifting so you can set it with any combination of creatures you can think of based on the toys you have at hand - mutant ponies, action man, barbies, lego, pebbles, soft toys.  Also your setting is really just what you have at hand - a space scene, the shire, whatever.
+It is meant to be genre-shifting so you can set it with any combination of creatures you can think of based on the toys you have at hand - mutant ponies, action man, barbies, lego, pebbles, soft toys.  Also your setting is really just what you have at hand - an abandoned spacehip, victorian london, the shire, haunted house, zombie culloden, whatever.
 
 The aim of the game is to meet your enemy in battle and smite his ruin down upon him etc.  Basically go watch The Hobbit and LOTR then come back.
 
-Note that these rules are as malleable as you need them to be in order to just plain enjoy yourself with your kids.   If it is too complicated, cut a bit out.  If you want a quick game, use 4 characters each. If you want a couple of hours, go for 40+ characters on your floor.
+Note that these rules are meant to be as malleable as you need them to be in order to just plain enjoy yourself with your kids.   If it is too complicated, cut a bit out or plain make something up.  If you want a quick game, use 4 characters each. If you want a couple of hours, go for 40+ characters on your floor.
 
 ## Prepare
 
-You need to prepare some stuff for your first game.  After that, put it in a box and you have your game ready to go wherever you are.  Here's a list of ingredients:
+You need to prepare some stuff for your first game.  After that, put all the stuff in a box and you have your game ready to go wherever you are.  Here's a list of ingredients:
 
 * Players.  Two players minimum although I suppose a bored child could play by themselves.  Actually no - **you must play with your children!!**
 * People (20 per player would be useful although you can play with just 1 person squads each in an RPG style (which I haven't thought about in any detail quite yet).
@@ -84,6 +84,30 @@ At the start of the game players can swap cards with each other. Blind cards can
 ### Playing a card. 
 
 At their turn the player nominates a card and a unit then turns the card over.  The card should explain what you can do with the power up.   If the card being played is "on" another player, then the other play can look at their non-blind cards and cancel the attacking card if that works.
+
+Here's a list of cards.  Make a bunch of them up with some not unreasonable title depending on the situation.
+
+* Movement Multipliers
+
+	* The whips of the master are upon us! - Moves 2x faster for 3 turns
+	* Super Run Magic -  +5 to move value for 1 turn
+	* Magic Wings - float +20 above the battlefield 
+
+* Curses for Movement
+
+	* Bogged down - enemies fall into a bog, Subtract 5 from their move count this turn.
+	* My eyes are blind! I cannot see! - your enemy has to move in a random direction this turn.  Direction chosen by roll of dice for the clock time.
+	* Superglue you - enemies are stuck to the spot for 1 turn
+	
+* Attack Modifiers
+
+	* Flaming Blade - add 2 to attack count
+	* Red rage - add 4 to attack 
+	
+* Defense Modifiers
+
+	* Shield of Kruthia - add 5 to defense roll count
+	* Blinding Flash - add 3 to defense roll count
 
 
 ## Summary

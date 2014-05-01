@@ -70,24 +70,43 @@ An attacker winning kills the defener.  A defender winning prevents the attack a
 ## Playing Cards
 
 
-You can take it up a level by using playing cards.   Each play is allocated an agreed number of cards at the start of the game.  They are shuffled and dealt randomly.    Use cards sparingly - or not - as they will affect the game big-time.
+You can take it up a level by using playing cards.   
+
+* Each player is allocated an agreed number of cards at the start of the game.  
+* They are shuffled and dealt randomly.    
+* Use cards sparingly - or not - as they will affect the game big-time.
+* Card are one-time deals.  Use them and then put them to one side.
 
 Players will always have one **blind** card.  That's a card that they are not allowed to look at but just play "blind".
  
-At the start of the game players can swap cards with each other. Blind cards can be swapped by no-one is allowed to look. So it's blind swapping!.
+At the start of the game players can swap cards with each other. Blind cards can be swapped however no-one is allowed to look. So it's blind swapping!.
 
 ### Playing a card. 
 
-At their turn the player nominates a card and a unit then turns the card over.  The card should explain what you can do with the power up.
+At their turn the player nominates a card and a unit then turns the card over.  The card should explain what you can do with the power up.   If the card being played is "on" another player, then the other play can look at their non-blind cards and cancel the attacking card if that works.
 
 
 ## Summary
 
-It's meant to be fun.  You as the adult are meant to lose, but only just.   Adjust the rules as you go alone.  Some examples.
+Remember, it's meant to be fun.  You as the adult are meant to lose, but only just.   Adjust the rules as you go along to keep it tough for the kids.  You could start out by having e.g. and "attack modifier" for kids of +2.  
+
+Some examples of scenarios:
+
+### Critical Hit
+
+If you are using two D6 for the game, an attacker rolling the highest score (2D6 = 12) could be a "critical hit".  This way you could say it hits *and* you get another attack if someone is close by.
+
+### Critical miss
+
+If you as the attacker roll the lowest possible score (e.g. 2), you could call that a critical miss where you chop off your own big toe.  That way the unit would then have a move modifier of -2 to slow them down for a turn or two.
+
+### Destroyers Defence
+
+Like a critical hit, but a defender rolls a maximum count and managed to head-butt or toe-stamp the enemy at the same time, thereby pushing them back 5 moves, or killing them outright.  
 
 ### Surrounded player can run away
 
-If a player is scared, they can drop their weapons and run with "4x move multiplier" back home.  They have to get home before they can recover and pick up more imaginary weapons, miss a turn then return to the fight.
+If a player is scared or outnumbered, they can drop their weapons and run with "4x move multiplier" back home.  They have to get home before they can recover and pick up more imaginary weapons, miss a turn then return to the fight.
 
 ### Regenerating players
 
@@ -95,7 +114,7 @@ On a large battle, you could nominate home, or a moving home could be the battle
 
 ### killing the battlefield commander
 
-That player is out of the game and their forces surrender, taken prisoner for another game. 
+If you manage to kill the battlefield commander - that player is out of the game and their forces surrender, taken prisoner for another game. 
 
 ### Teaming up 
 
